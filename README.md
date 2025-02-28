@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in
 - 🔭 I’m working on building a tech shop website, which will showcase different products to clients from laptops to different phones to help them purchase quality products at an affordable price.
 -   
 - 💬 Ask me about any specific topics you're open to discussing or helping with
-- 📫 How to reach me: [mailto:MjabulelwaWelford@gmail.com
+- 📫 How to reach me: [MjabulelwaWelford@gmail.com
 , www.linkedin.com/in/mjabulelwa-khumalo-5865aa257, or 0799927424]
 
 ---
