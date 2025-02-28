@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mjabulelwa Kumalo!
 
-Welcome to my GitHub portfolio! I'm a Computer Science graduate with a strong foundation of C#. Here you can explore my open-source projects, contributions, and get a sense of the work I do. Thanks for visiting!
+Welcome to my GitHub portfolio! I'm a Computer Science graduate with a strong foundation in C#. Here you can explore my open-source projects, contributions, and get a sense of the work I do. Thanks for visiting!
 
 ## 🚀 About Me
 
