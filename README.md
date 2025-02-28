@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔧 Projects
 
-### 1. [AccumulatedValue]
+### 1. [AccumulatedValue]<a href="https://github.com/Mjabulelwa/Accumulated-Value/tree/main/AccumulatedValue">AccumulatedValue</a>
 This website calculates the future value from the investment 
 made by the client. 
 
@@ -35,7 +35,7 @@ made by the client.
 
 ---
 
-### 2. [ITSL Management System ]
+### 2. [ITSL Management System ]<a href="https://github.com/Mjabulelwa/ITSL-Management-System/blob/main/ITSL%20Management%20system.pdf)">ITSL Management System</a>
 The Information Technology Service Learning (ITSL) system specification 
 document is a manual that provides comprehensive guide for creating a user 
 system for managing ITSL modules at the University of the Free State (UFS).  
