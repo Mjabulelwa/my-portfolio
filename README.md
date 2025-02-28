@@ -1,14 +1,15 @@
 
 # 👋 Hi, I'm Mjabulelwa Kumalo!
 
-Welcome to my GitHub portfolio! I'm a Computer Science graduate with a strong foundation in C#. Here you can explore my open-source projects, contributions, and get a sense of the work I do. Thanks for visiting!
+Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
 
 ## 🚀 About Me
 
-- 💻 I’m an aspiring full-stack-developer, with a focus on web development, computer networking, computer hardware and machine learning.
-- 🌱 I’m currently learning javascript and python languages.
+- 💻 My journey in computer science has led me to develop passion for software development. I have a strong foundation on web development, computer networking, computer hardware and machine learning.
+- 🌱 I’m currently learning python.
 - 🎓 I have a degree in Bsc Information Technology majoring Computer Science and Business Management.
-- 🔭 I’m working on building a tech shop website, which will showcase different products to clients from laptops to different phones.
+- 🔭 I’m working on building a tech shop website, which will showcase different products to clients from laptops to different phones to help them purchase quality products at an affordable price.
+-   
 - 💬 Ask me about any specific topics you're open to discussing or helping with
 - 📫 How to reach me: [MjabulelwaWelford@gmail.com, www.linkedin.com/in/mjabulelwa-khumalo-5865aa257, or 0799927424]
 
