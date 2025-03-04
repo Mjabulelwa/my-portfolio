@@ -3,7 +3,6 @@
 
 
 ![Profile Image](My Photo.jpg)
-<img src="My Photo.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 
 # 👋 Hi, I'm Mjabulelwa!
 
