@@ -1,4 +1,4 @@
-[View my website](index.html)
+(index.html)
 
 # 👋 Hi, I'm Mjabulelwa!
 
