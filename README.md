@@ -1,4 +1,4 @@
-![Profile picture](https://raw.githubusercontent.com/Mjabulelwa/my-portfolio/refs/heads/main/index.html)
+![View HTML File](https://raw.githubusercontent.com/Mjabulelwa/my-portfolio/refs/heads/main/index.html)
 
 # 👋 Hi, I'm Mjabulelwa!
 
