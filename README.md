@@ -1,4 +1,5 @@
-![Profile picture]()
+![Profile picture](My Photo.jpg)
+
 # 👋 Hi, I'm Mjabulelwa!
 
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
