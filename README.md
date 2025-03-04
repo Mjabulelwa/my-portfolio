@@ -1,7 +1,8 @@
 
 
 
-[Myself](My Photo.jpg)
+![Profile Image](My Photo.jpg)
+<img src="images/profile.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 # 👋 Hi, I'm Mjabulelwa!
 
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
