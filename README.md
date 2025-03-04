@@ -1,7 +1,4 @@
 ![Profile picture](My Photo.jpg)
-Profile picture
-
-
 
 # 👋 Hi, I'm Mjabulelwa!
 
