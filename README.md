@@ -1,5 +1,4 @@
-
-![Profile Image](My Photo.jpg)
+[View my website](index.html)
 
 # 👋 Hi, I'm Mjabulelwa!
 
