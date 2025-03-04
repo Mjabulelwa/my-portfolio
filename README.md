@@ -1,5 +1,4 @@
-![View HTML File](https://raw.githubusercontent.com/Mjabulelwa/my-portfolio/refs/heads/main/index.html)
-
+![Profile picture]()
 # 👋 Hi, I'm Mjabulelwa!
 
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
