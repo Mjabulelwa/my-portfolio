@@ -1,4 +1,4 @@
-![Alt text](https://github.com/username/repository/blob/branch/path-to-image.jpg?raw=true
+![Alt text](https://github.com/username/repository/blob/branch/Mjabulelwa.jpg?raw=true
 # 👋 Hi, I'm Mjabulelwa!
 
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
