@@ -22,7 +22,6 @@ Here are some of the technologies and tools I work with:
 - **Languages**: C#, SQL
 - **Web Development**: HTML, CSS,
 - **Databases**: SQL server, SQLite
-- 
 ---
 
 ## 🔧 Projects
