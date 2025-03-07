@@ -1,7 +1,3 @@
-![My Photo](https://github.com/Mjabulelwa/my-portfolio/actions/main/Mjabulelwa.jpg
-
-![Banner Image](https://via.placeholder.com/1200x300 "Project Banner")
-
 # 👋 Hi, I'm Mjabulelwa!
 
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
