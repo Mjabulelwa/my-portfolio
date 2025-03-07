@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mjabulelwa!
 
+![Prrofile picture](/Mjabulelwa.jpg)
+
 Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in technology and a dedication to solving complex problems. Thanks for visiting!
 
 ## 🚀 About Me
