@@ -1,1 +1,6 @@
-
+.profile-pic {
+    width: 150px; /* Adjust the size of the image */
+    height: 150px; /* Keep the width and height the same for a perfect circle */
+    border-radius: 50%; /* This makes the image circular */
+    object-fit: cover; /* Ensures the image fits within the circle */
+}
