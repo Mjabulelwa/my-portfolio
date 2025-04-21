@@ -6,8 +6,8 @@ Welcome to my GitHub portfolio! I'm a recent graduate with a profoud interest in
 ## 🚀 About Me
 
 - 💻 My journey in computer science has led me to develop passion for software development. I have a strong foundation on web development, computer networking, computer hardware and machine learning.
-- 🌱 I’m currently learning python.
-- 🎓 I have a degree in Bsc Information Technology majoring Computer Science and Business Management.
+- 🌱 I’m currently practising and building c# projects.
+- 🎓 I have a degree in Bsc in Information Technology with specialization in Computer Science .
 - 🔭 I’m working on building a tech shop website, which will showcase different products to clients from laptops to different phones to help them purchase quality products at an affordable price.
   
 - 💬 Ask me about any specific topics you're open to discussing or helping with
