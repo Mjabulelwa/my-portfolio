@@ -41,3 +41,6 @@ students involved in service projects to project coordinators, community
 participants and partner organisations.
 
 ### 3. [LadysmithProperties]<a href="https://github.com/Mjabulelwa/my-portfolio/main/LadysmithProperties.zip">LadysmithProperties</a>
+This website shows the Ladsmith properties and their details as well as their prices.
+
+**Technologies Used**: [c#, ASP.NetCore, Bootstrap]
