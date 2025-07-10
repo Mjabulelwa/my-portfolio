@@ -39,3 +39,5 @@ The system is designed to simplify tasks, promote engaging learning
 experiences and enhance communication among all the stakeholders – from 
 students involved in service projects to project coordinators, community 
 participants and partner organisations.
+
+### 3. [LadysmithProperties]<a href="https://github.com/Mjabulelwa/my-portfolio/main/LadysmithProperties.zip">LadysmithProperties</a>
