@@ -43,4 +43,4 @@ participants and partner organisations.
 ### 3. [LadysmithProperties]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/LadysmithProperties.zip">LadysmithProperties</a>
 This website shows the Ladsmith properties and their details as well as their prices.
 
-**Technologies Used**: [c#, ASP.NetCore, Bootstrap]
+**Technologies Used**: [C#, ASP.NetCore, Bootstrap]
