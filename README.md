@@ -48,4 +48,4 @@ This website shows the Ladsmith properties and their details as well as their pr
 ### 4. [Patient Visit System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Patient Visit System</a>
 This system shows a data science pipeline designed to analyze patient visit records and predict hospital readmissions.
 
-**Technologies Used**: [python, CSV]
+**Technologies Used**: [Python, CSV]
