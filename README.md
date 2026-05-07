@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔧 Projects
 
-### 1. [AccumulatedValue]<a href="https://github.com/Mjabulelwa/Accumulated-Value/tree/main/AccumulatedValue">AccumulatedValue</a>
+### 1. [AccumulatedValue]<a href="https://github.com/Mjabulelwa/Accumulated-Value/tree/main/AccumulatedValue">Accumulated Value</a>
 This website calculates the future value from the investment 
 made by the client. 
 
@@ -40,12 +40,16 @@ experiences and enhance communication among all the stakeholders – from
 students involved in service projects to project coordinators, community 
 participants and partner organisations.
 
-### 3. [LadysmithProperties]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/LadysmithProperties.zip">LadysmithProperties</a>
+### 3. [LadysmithProperties]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/LadysmithProperties.zip">Ladysmith Properties</a>
 This website shows the Ladsmith properties and their details as well as their prices.
 
 **Technologies Used**: [C#, ASP.NetCore, Bootstrap]
 
 ### 4. [Patient Visit System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Patient Visit System</a>
 This system shows how a data science pipeline is designed to analyze patient visit records and predict hospital readmissions.
+
+**Technologies Used**: [Python, CSV]
+### 5. [Expense Tracker with Insights]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/expense_tracker.py">Expense Tracker with Insights</a>
+This system is a personal expense tracker and predictor. It loads spending data from a CSV file, cleans and enriches it with time-based features, then calculates totals and category breakdowns. It produces visual charts to show spending by category and daily trends, highlights overspending habits and high-spending days, and finally applies a simple machine learning model (linear regression) to forecast expenses for the next few days. 
 
 **Technologies Used**: [Python, CSV]
