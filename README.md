@@ -46,6 +46,6 @@ This website shows the Ladsmith properties and their details as well as their pr
 **Technologies Used**: [C#, ASP.NetCore, Bootstrap]
 
 ### 4. [Patient Visit System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Patient Visit System</a>
-This system shows a data science pipeline designed to analyze patient visit records and predict hospital readmissions.
+This system shows how a data science pipeline is designed to analyze patient visit records and predict hospital readmissions.
 
 **Technologies Used**: [Python, CSV]
