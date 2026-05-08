@@ -1,14 +1,14 @@
 ![Profile Picture](/Mjabulelwa1.jpg)
 # 👋 Hi, I'm Mjabulelwa!
 
-Welcome to my GitHub portfolio! I'm an IT graduate looking for a role in IT. Thanks for visiting!
+Welcome to my GitHub portfolio! I'm an IT(Computer Science) graduate looking for a role in Data and Development. Thanks for visiting!
 
 ## 🚀 About Me
 
-- 💻 My journey in IT has led me to develop a passion for everything tech. I have a strong foundation in IT Support, Networking, Programming, Software Engineering, Databases and troubleshooting
-- 🌱 I’m currently pursuing CompTia A+ certification.
+- 💻 My journey in IT has led me to develop a passion for everything Data and tech. I have a strong foundation in Data Science and Computer Science through doing various certifications, Networking, Programming, Software Engineering, and Databases.
+- 🌱 I currently have Azure Fundamentals(AZ-900), Azure Data Fundamentals(DP-900), Fabric Analytics Engineer Associate(DP-600), I also have the Power BI Data Analyst Associate(PL-300).I’m currently pursuing Azure Data Scientists Associate(DP-100).
 - 🎓 I have a degree in Bsc in Information Technology with specialization in Computer Science .
-- 🔭 I’m  also working on building a tech shop website, which will showcase different products to clients from laptops to different phones to help them purchase quality products at an affordable price.
+- 🔭 I have a passion for transforming raw data into meaningful insights and actionable solutions. With a background in technology and problem‑solving, I approach challenges with curiosity, analytical thinking, and a drive to continuously improve. I’m particularly interested in how data can enhance decision‑making across industries—from improving user experiences to optimizing business processes.
   
 - 💬 Ask me about any specific topics you're open to discussing.
 - 📫 How to reach me: [MjabulelwaWelford@gmail.com
