@@ -53,3 +53,6 @@ This system shows how a data science pipeline is designed to analyze patient vis
 This system is a personal expense tracker and predictor. It loads spending data from a CSV file, cleans and enriches it with time-based features, then calculates totals and category breakdowns. It produces visual charts to show spending by category and daily trends, highlights overspending habits and high-spending days, and finally applies a simple machine learning model (linear regression) to forecast expenses for the next few days. 
 
 **Technologies Used**: [Python, CSV]
+
+### 6. [Sales Forecasting System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Sales Forecasting System</a>
+This Sales Forecasting Dashboard is an interactive application built with Streamlit that allows users to upload sales data, analyze historical performance, and generate future sales predictions. The system processes the data by calculating total sales, visualizing daily trends, and applying a time series forecasting model using SARIMAX. It enables users to adjust the forecast period, view projected sales with confidence intervals, and explore results through clear charts and tables, helping support better planning and decision-making.
