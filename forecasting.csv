@@ -1,0 +1,22 @@
+date,product,region,price,quantity
+2026-01-01,Laptop,Johannesburg,12000,5
+2026-01-01,Phone,Cape Town,8000,10
+2026-01-01,Tablet,Durban,6000,7
+2026-01-02,Laptop,Johannesburg,12000,3
+2026-01-02,Phone,Cape Town,8000,12
+2026-01-02,Tablet,Durban,6000,5
+2026-01-03,Laptop,Johannesburg,12000,8
+2026-01-03,Phone,Cape Town,8000,15
+2026-01-03,Tablet,Durban,6000,9
+2026-01-04,Laptop,Johannesburg,12000,6
+2026-01-04,Phone,Cape Town,8000,9
+2026-01-04,Tablet,Durban,6000,4
+2026-01-05,Laptop,Johannesburg,12000,10
+2026-01-05,Phone,Cape Town,8000,20
+2026-01-05,Tablet,Durban,6000,12
+2026-01-06,Laptop,Johannesburg,12000,4
+2026-01-06,Phone,Cape Town,8000,11
+2026-01-06,Tablet,Durban,6000,6
+2026-01-07,Laptop,Johannesburg,12000,7
+2026-01-07,Phone,Cape Town,8000,14
+2026-01-07,Tablet,Durban,6000,8
