@@ -54,5 +54,5 @@ This system is a personal expense tracker and predictor. It loads spending data 
 
 **Technologies Used**: [Python, CSV]
 
-### 6. [Sales Forecasting System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Sales Forecasting System</a>
+### 6. [Sales Forecasting Dashboard System]<a href="https://github.com/Mjabulelwa/my-portfolio/blob/main/patient_visit.py">Sales Forecasting Dashboard System</a>
 This Sales Forecasting Dashboard is an interactive application built with Streamlit that allows users to upload sales data, analyze historical performance, and generate future sales predictions. The system processes the data by calculating total sales, visualizing daily trends, and applying a time series forecasting model using SARIMAX. It enables users to adjust the forecast period, view projected sales with confidence intervals, and explore results through clear charts and tables, helping support better planning and decision-making.
