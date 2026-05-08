@@ -21,7 +21,8 @@ Here are some of the technologies and tools I work with:
 - **Languages**: C#,Python, SQL
 - **Web Development**: HTML, CSS,
 - **Databases**: SQL server, SQLite
-- **Business Intelligence tool (BI)**: Power BI, Fabric Analyst Engineer Associate, Azure Fundamentals, Azure Data Fundamentals
+- **Business Intelligence tool (BI)**: Power BI Data Analyst Associate
+- **Microsoft Certifications**: Power BI Data Analyst Associate(PL-300), Fabric Analytic Engineer Associate(DP-600), Azure Fundamentals(AZ-900), Azure Data Fundamentals(DP-900).
 
 ## 🔧 Projects
 
