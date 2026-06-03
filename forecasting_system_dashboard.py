@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 
-st.title("📊 Sales Forecasting Dashboard")
+st.title(" Sales Forecasting Dashboard")
 
 # Upload file
 uploaded_file = st.file_uploader("forcasting.csv", type=["csv"])
@@ -27,14 +27,14 @@ if uploaded_file:
         daily_sales = daily_sales.asfreq("D").fillna(0)
 
         # Plot daily sales
-        st.subheader("📈 Daily Sales Trend")
+        st.subheader(" Daily Sales Trend")
         fig, ax = plt.subplots()
         daily_sales.plot(ax=ax)
         ax.set_title("Daily Sales")
         st.pyplot(fig)
 
         # Forecast settings
-        st.subheader("⚙️ Forecast Settings")
+        st.subheader(" Forecast Settings")
         steps = st.slider("Forecast Days", 7, 60, 14)
 
         # Train model
@@ -54,7 +54,7 @@ if uploaded_file:
         forecast_ci = forecast.conf_int()
 
         # Plot forecast
-        st.subheader("🔮 Forecast")
+        st.subheader(" Forecast")
         fig2, ax2 = plt.subplots()
 
         daily_sales.plot(ax=ax2, label="Historical")
@@ -71,7 +71,7 @@ if uploaded_file:
         st.pyplot(fig2)
 
         # Show forecast values
-        st.subheader("📋 Forecast Data")
+        st.subheader(" Forecast Data")
         forecast_df = pd.DataFrame({
             "Forecast": forecast_mean,
             "Lower CI": forecast_ci.iloc[:, 0],
