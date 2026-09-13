@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm an IT(Computer Science) graduate looking for
 ## 🚀 About Me
 
 - 💻 My journey in IT has led me to develop a passion for everything Data and tech. I have a strong foundation in Computer Science and Data through doing various certifications, Networking, Programming, Software Engineering, and Databases.
-- 🌱 I currently have Azure Fundamentals(AZ-900), Azure Data Fundamentals(DP-900), Fabric Analytics Engineer Associate(DP-600), I also have the Power BI Data Analyst Associate(PL-300).I’m currently pursuing Azure Data Scientists Associate(DP-100).
+- 
 - 🎓 I have a degree in Bsc in Information Technology with specialization in Computer Science .
 - 🔭 I have a passion for transforming raw data into meaningful insights and actionable solutions. With a background in technology and problem‑solving, I approach challenges with curiosity, analytical thinking, and a drive to continuously improve. I’m particularly interested in how data can enhance decision‑making across industries—from improving user experiences to optimizing business processes.
   
